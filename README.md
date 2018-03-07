@@ -1,2 +1,2 @@
 # pyspark-mongo
-Process process data from mongodb using pyspark
+Process data from mongodb using pyspark
